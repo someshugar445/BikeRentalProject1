@@ -1,10 +1,12 @@
 # Bike Rental Count Prediction
 
-Data Set - 1.day.csv
+### Data Set:
+1.day.csv
 
-Problem statement - The objective of this Case is to Predication of bike rental count on daily based on the environmental and seasonal settings.
+### Problem statement:
+The objective of this Case is to Predication of bike rental count on daily based on the environmental and seasonal settings.
 
-The details of data attributes in the dataset are as follows:
+### Data attributes:
 
 instant: Record index 
 
@@ -16,7 +18,7 @@ yr: Year (0: 2011, 1:2012)
 
 mnth: Month (1 to 12)
 
- hr: Hour (0 to 23)
+hr: Hour (0 to 23)
  
 holiday: weather day is holiday or not (extracted fromHoliday Schedule) 
 
